@@ -1,0 +1,15 @@
+﻿Ticker,Sector,Portfolio Wt,Bench Wt,Return
+Stock 1,Sector 1,0.07,0.13,0
+Stock 2,Sector 1,0.08,0.09,0.1
+Stock 3,Sector 1,0.07,0.06,-0.1
+Stock 4,Sector 1,0.08,0.03,0.2
+Stock 5,Sector 2,0.07,0.12,0.3
+Stock 6,Sector 2,0.08,0.09,-0.1
+Stock 7,Sector 2,0.07,0.05,-0.3
+Stock 8,Sector 2,0.08,0.02,0.4
+Stock 9,Sector 3,0.07,0.04,-0.2
+Stock 10,Sector 3,0.08,0.11,0.1
+Stock 11,Sector 3,0.07,0.1,-0.1
+Stock 12,Sector 3,0.08,0.08,0.3
+Stock 13,Sector 3,0.07,0.07,-0.1
+Stock 14,Sector 3,0.03,0.01,0.4
